@@ -1,0 +1,11 @@
+*{
+    margin: 10;
+    padding: 10;
+    boxing:border-box;
+  }
+#ra{
+    color: rgba(247, 111, 0, 0.945);
+}
+p{
+  color: rgb(3, 3, 3);
+}
